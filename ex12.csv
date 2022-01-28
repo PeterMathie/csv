@@ -1,5 +1,5 @@
 Shape,x,y,width,height,x2,y2,r,rx,ry,fill,border
-line,20,40,,,60,30,,,,pink,red,
-circle,200,200,,,,,50,,,orange,green,
-ellipse,2,300,,,,,,15,40,red,blue,
-rectangle,150,220,30,40,,,,,,red,black,
+line,20,40,,,60,30,,,,pink,8px red,
+circle,200,200,,,,,50,,,orange,2px green,
+ellipse,2,300,,,,,,15,40,red,4px blue,
+rectangle,150,220,30,40,,,,,,red,3px black,
